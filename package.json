@@ -12,7 +12,7 @@
     "animation"
   ],
   "author": "Wout Fierens <wout@mick-wout.com>",
-  "main": "dist/svg.node.cjs",
+  "main": "src/svg.js",
   "unpkg": "dist/svg.min.js",
   "jsdelivr": "dist/svg.min.js",
   "browser": "dist/svg.esm.js",
@@ -30,7 +30,6 @@
     }
   },
   "files": [
-    "/dist",
     "/src",
     "/svg.js.d.ts",
     "/.config"
